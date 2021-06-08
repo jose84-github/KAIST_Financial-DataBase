@@ -1,0 +1,27 @@
+gov_debt_of gdp_uk
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/zaus/ukea
+
+gov_debt_of gdp_kor
+https://www.index.go.kr/unify/idx-info.do?idxCd=4210&clasCd=7
+
+gov_public_debt_uk
+https://www.statista.com/statistics/282841/debt-as-gdp-uk/
+
+gov_public_debt_kor
+https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1106
+
+https://kostat.go.kr/portal/eng/resources/2/1/index.action?bmode=view&pageCode=ENGIMF01
+
+budget deficit of gdp_uk
+https://countryeconomy.com/deficit/uk
+
+budget deficit of gdp_kor
+https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1104
+
+cash_surplus_deficit_of gdp_kor
+
+cash_surplus_deficit_of gdp_uk
+https://www.deepsearch.com/analytics/economic-indicator?pageView=1&symbol=FRED%3ACASHBLGBA188A&query=CASH%20surplus&chartEditSetting=JTdCJTIyc2VyaWVzTGlzdCUyMiUzQSU1QiU3QiUyMnN5bWJvbCUyMiUzQSUyMkZSRUQlM0FDQVNIQkxHQkExODhBJTIyJTJDJTIyYXhpcyUyMiUzQTAlN0QlNUQlMkMlMjJsZWdlbmRQb3NpdGlvbiUyMiUzQTIlMkMlMjJsZWdlbmRPcmllbnRhdGlvbiUyMiUzQSUyMmglMjIlN0Q=
+
+tax_rev_kor&uk
+https://data.worldbank.org/indicator/GC.TAX.TOTL.GD.ZS?end=2019&locations=GB&start=2000
